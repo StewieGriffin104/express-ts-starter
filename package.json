@@ -26,7 +26,10 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "express": "^4.21.1"
+    "@types/cors": "^2.8.17",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "helmet": "^8.0.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.2.0",
